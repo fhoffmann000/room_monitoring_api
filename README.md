@@ -19,7 +19,7 @@ Despite its outdated setup, the project demonstrates core concepts like authenti
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/fhoffmann000/room-monitoring-api.git
+   git clone https://github.com/fhoffmann000/room_monitoring_api.git
    cd room-monitoring-api
    ```
 
